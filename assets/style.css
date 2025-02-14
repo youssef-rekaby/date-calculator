@@ -89,7 +89,7 @@ hr {
 }
 
 button {
-    background-color: rgb(214, 21, 172);
+    background-color:hsl(259, 100%, 65%);
     border-radius: 50%;
     width: 60px;
     height: 60px;

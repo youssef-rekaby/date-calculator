@@ -12,8 +12,8 @@ The designs were created to the following widths:
 ## Colors
 
 ### Primary
-
-- Purple: hsl(259, 100%, 65%)
+ 
+- Purple:hsl(259, 100%, 65%)
 - Light red: hsl(0, 100%, 67%)
 
 ### Neutral
