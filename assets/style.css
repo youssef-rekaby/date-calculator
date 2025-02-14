@@ -89,14 +89,10 @@ hr {
 }
 
 button {
-    background-color: black;
+    background-color: rgb(214, 21, 172);
     border-radius: 50%;
     width: 60px;
     height: 60px;
-    position: absolute;
-    top: 35%;
-    left: 65%;
-    transform: translate(-50%, -50%);
     cursor: pointer;
     border: none;
 }
